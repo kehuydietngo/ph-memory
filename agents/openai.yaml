@@ -1,0 +1,4 @@
+interface:
+  display_name: "PH Memory"
+  short_description: "Carry project context across agents and accounts"
+  default_prompt: "Use $ph-memory to recover this project's context and continue from its latest verified checkpoint."
